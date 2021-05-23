@@ -13,5 +13,7 @@ object test1 {
 
     val value = "baba"
 
+    println(value + s"${"__haha"}")
+
   }
 }
