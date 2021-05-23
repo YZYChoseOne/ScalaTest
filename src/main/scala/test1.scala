@@ -18,5 +18,7 @@ object test1 {
 
     println("再来一杯")
     println("胡辣汤好喝吗")
+    
+    println("pull test")
   }
 }
