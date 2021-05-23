@@ -15,5 +15,7 @@ object test1 {
 
     println(value + s"${"__haha"}")
 
+
+    println("再来一杯")
   }
 }
